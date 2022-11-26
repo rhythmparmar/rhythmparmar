@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhythmparmar&label=Profile%20views&color=0e75b6&style=flat" alt="rhythmparmar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhythmparmar" alt="rhythmparmar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rhythmparmar8" target="blank"><img src="https://img.shields.io/twitter/follow/rhythmparmar8?logo=twitter&style=for-the-badge" alt="rhythmparmar8" /></a> </p>
 
 - 🔭 I’m currently working on **MemeZone.com**
