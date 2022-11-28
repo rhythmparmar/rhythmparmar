@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rhythmparmar198@gmail.com, rhythm0581.be20@chitkara.edu.in**
 
-- ⚡ Fun fact **I like Automobiles**
+- ⚡ Fun fact **I like the Wheels bro doesn't matter whether they are 4 or 2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
