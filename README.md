@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rhythmparmar8" target="blank"><img src="https://img.shields.io/twitter/follow/rhythmparmar8?logo=twitter&style=for-the-badge" alt="rhythmparmar8" /></a> </p>
 
-- 🔭 I’m currently working on **MemeZone.com**
+- 🔭 I’m currently working on **MemeZone.com (currently under maintenance)**
 
 - 🌱 I’m currently learning **Java, ReactJs, NodeJs, MongoDB, ExpressJs**
 
