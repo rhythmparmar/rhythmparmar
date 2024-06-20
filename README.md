@@ -3,7 +3,7 @@
 <h3 align="center">a MERN Stack Developer from India</h3>
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhythmparmar&label=Profile%20views&color=0e75b6&style=flat" alt="rhythmparmar" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=rhythmparmar&label=Profile%20views&color=0e75b6&style=flat" alt="rhythmparmar](https://www.google.com/imgres?q=devops%20images&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD4D12AQGWcSInOgklkw%2Farticle-cover_image-shrink_600_2000%2F0%2F1664800435918%3Fe%3D2147483647%26v%3Dbeta%26t%3DQ4otFvD0-FQtg0vWQtvVCGGg0dxaKfMKyVRlEI7GfCw&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmodern-devops-certifications-mikalai-ivanisenka&docid=k7po_tfvQLdtHM&tbnid=X7lF8d-cKaPtdM&vet=12ahUKEwiZxJGss-mGAxWfdvUHHVPQBKkQM3oFCIUBEAA..i&w=440&h=300&hcb=2&ved=2ahUKEwiZxJGss-mGAxWfdvUHHVPQBKkQM3oFCIUBEAA)" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rhythmparmar8" target="blank"><img src="https://img.shields.io/twitter/follow/rhythmparmar8?logo=twitter&style=for-the-badge" alt="rhythmparmar8" /></a> </p>
 
