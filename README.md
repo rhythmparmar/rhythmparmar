@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **rhythmparmar198@gmail.com**
 
-- ⚡ Fun fact **Im into Automobiles**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rhythm_x8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhythm_x8" height="30" width="40" /></a>
